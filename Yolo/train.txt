@@ -1,0 +1,1380 @@
+C:\Users\Light\Desktop\ocr\images-and-labels\ABSORBABLE.png
+C:\Users\Light\Desktop\ocr\images-and-labels\acrocephalosyndactyly.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\activating factor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\acute glaucoma.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\acute leukemia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\acute necrotizing.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\acyl-CoA.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Adenosine.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ALARM.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\allergic granulomatous.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Amino acid.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\anemia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ANESTHESIA.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anesthetist.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anetoderma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aneuploidy.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm abdominal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm aortic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm arterial.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm arteriosclerotic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm atherosclerotic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm berry.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm brain.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm cardiac.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm dissecting.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm fusiform.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm miliary.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm racemose.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm renal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm saccular.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm thoracic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm venous.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysm.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aneurysmal bruit.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anfinsen.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angelman syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anger.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiitis allergic.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiitis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angina exudative.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angina pectoris.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angina Prinzmetal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angina trachealis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angina variant.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angina Vincent.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Angina.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angioedema hereditary.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Angioedema.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiogenesis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiogram.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiography coronary.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiography fluorescein.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiography.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiohemophilia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angioid streaks.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiokeratoma corporis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiomatosis bacillary.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiomyolipoma.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiomyxoma aggressive.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angioneurotic edema.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiopathy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Angioplasty.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiosarcoma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiostatin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiostrongyliasis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiostrongylus infection.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiotensin converting.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angiotensin receptor.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Angiotensin.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Angle-closure glaucoma.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anhedonia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anhidrosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anhidrotic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aniline.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Animal transplant.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anion gap.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anion.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anisakiasis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aniso.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anisocoria.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anisocytosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anisometropia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankle Block.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankle bone.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankle joint.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankle pain.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankle sprain.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankle syndesmosis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankle twist.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankle-foot orthosis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Ankle.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Ankyloglossia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Ankylose.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankylosing spondylitis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Ankylosing.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Ankylosis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ankyrin deficiency.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anlage.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anlagen.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ANLL.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Annals Medicine.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Annexins.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Annotate.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Annotation genome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Annotation.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Annular pancreas.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Annulus.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anogenital tract.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anomalad.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anomaly congenital.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anomaly Klippel-Feil.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anomaly.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anomia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anomic aphasia.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anonymize.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anonymous reporting.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anonymous testing.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anophthalmia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anorectic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anorexia cancer.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anorexia nervosa.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anorexia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anorexic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anorexigenic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anorgasmia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anorgasmy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anoscope.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anoscopy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anosmia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anotia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anovular menstruation.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anovular.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anovulatory.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anoxia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anoxic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ant fire.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antagonist.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antean.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antegrade amnesia.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antegrade.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antenatal surgery.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anterior chamber.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anterior cruciate l.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anterior cruciate.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anterior pituitary.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anterior Segment.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anterior tongue.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anterior.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anterograde amnesia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anterograde memory.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anterograde.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anterolisthesis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anteroposterior.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anthophobia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anthracycline.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anthrax immunization.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anthrax toxin.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anthrax.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anthropology forensic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anti CCP.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anti-angiogenesis drugs.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anti-CCP.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anti-citrulline antibody.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anti-cyclic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anti-emetic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anti-infective.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anti-NMDA receptor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anti-platelet agents.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anti-reflux surgery.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiandrogen.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antiatherogenic mutation.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antibacterial.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antibiotic resistance.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antibiotic tuberculosis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antibiotic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antibody antinuclear.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antibody antithyroglobulin.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antibody reactivity.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\antibody syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antibody-dependent.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antibody.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anticholinergic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anticipation.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anticipatory grief.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anticoagulant agent.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anticoagulant.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anticonvulsant.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antidepressant MAOI.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antidepressant SSRI.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antidepressant tricyclic.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antidepressant.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antidepressants.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antidiabetic agent.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antidiuretic hormone.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antidote.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antielastase.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiemetics.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiestrogen.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antifreeze poisoning.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antifungal agent.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antifungal drug.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antifungal medication.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antifungal.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antigen prostate.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antigen-antibody complex.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antigen-presenting cell.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antigen.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antigenic drift.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antigenic shift.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antihistamines.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antihypertensive.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiinfective.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antimalarial.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antimetabolite.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antimicrobial agent.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antimicrobial drug.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antimicrobial medication.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antimicrobial resistance.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antimicrobial.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antimony.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antineoplastic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antinuclear antibody.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antinuclear test.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antioxidant.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiparallel.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiparasitic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\antiphospholipid syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiphospholipid.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antiprotozoal drug.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiprotozoal.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antipsoriatic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antipsychotic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antipyretic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antiretroviral therapy.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiretroviral.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antisense DNA.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antisense drug.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antisense mRNA.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antisense-strand.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antisense.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antisepsis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiseptic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antisocial personality.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antisocial.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antispasmodic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antithymocyte globulin.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antithyroglobulin.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antithyroid antibody.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antithyroid drug.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antitoxin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antivenin.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Antiviral agent.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Antiviral.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antonomasia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antonomastic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antonomasy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antro-duodenal.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Antrum.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ants fire.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ants velvet.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anus imperforate.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Anvil.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anxiety disorder.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Anxiety social.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Anxiety.png
+C:\Users\Light\Desktop\ocr\images-and-labels\AOM.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aorta abdominal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aorta ascending.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aorta coarctation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aorta descending.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aorta thoracic.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aorta.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aortal.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aortic aneurysm.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aortic atresia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aortic dissection.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aortic insufficiency.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aortic regurgitation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aortic stenosis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aortic valve.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aortic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aortitis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\APA.png
+C:\Users\Light\Desktop\ocr\images-and-labels\APC.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aperient.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Apert syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Apert.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apex.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Apgar score.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Apgar.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aphagia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aphakia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aphasia acquired.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aphasia amnesic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aphasia amnestic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aphasia anomic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aphasia nominal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aphasia primary.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aphasia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apheresis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aphonia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aphrasia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aphthous ulcer.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Apical.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apiphobia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aplasia breast.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aplasia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aplastic anemia.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Apnea.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apneic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\APO-1.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\ApoA-I Milano.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\APOA-I.png
+C:\Users\Light\Desktop\ocr\images-and-labels\APOBEC3G.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apolipoprotein.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apollo.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apopain.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apophenia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Apophysitis calcaneus.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Apoplexy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apoptosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Appendectomy.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendiceal cancer.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendiceal perforation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendiceal rupture.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Appendiceal.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Appendicitis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendix cancer.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendix epididymis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendix epiploica.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendix perforation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendix rupture.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Appendix testis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Appendix.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Apposition.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Approved drug.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Apraxia speech.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Apraxia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aquagenic keratoderma.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aquagenic urticaria.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aquaphobia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aquaporin.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aqueduct  Sylvius.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aqueduct the midbrain.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aqueduct.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aqueous humor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arabidopsis thaliana.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Arabidopsis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arachnodactyly.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arachnoiditis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arachnophobia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arbitration agreement.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arboviral encephalitis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Arbovirus.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arch aortic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\arch syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arch vertebral.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arch zygomatic.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Archaea.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Archaeogenetics.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Archaeology.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arctic health.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arcuate neuron.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arcuate nucleus.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arcus senilis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\ARD.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ARDS.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Areflexia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arenaviridae.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arenavirus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Areola.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Argentaffinoma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arginine.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Argon  Trabeculoplasty.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Argon laser.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Argyria.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arhythmia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arimidex.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aristolochia fangchi.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aristolochic acid.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aristotle.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aromasin.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aromatase inhibitor.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aromatase.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aromatherapy.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arrayed library.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arrector pili.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arrectores pilorum.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arrhythmia sinus.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Arrhythmia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arrhythmias atrial.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arrhythmias rapid.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arrhythmias slow.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arrhythmias ventricular.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Arsenic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arsine.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Artemidorus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Artemisinin.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artemsisia annua.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteria femoralis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arterial aneurysm.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arterial blood gas.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\ARTERIAL LINE.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arterial tension.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteries coronary.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Arteriogram.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteriohepatic dysplasia.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Arteriole.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arteriosclerosis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteriosclerotic aneurysm.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteriosclerotic retinopathy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\arteriovenous fistula.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteriovenous malformation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteritis  cell.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteritis cranial.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteritis Takayasu.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arteritis temporal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery  retinal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery brachial.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery carotid.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery femoral.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery hepatic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery mesenteric.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery ophthalmic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery pulmonary.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery spasm coronary.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery splenic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artery vertebral.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Artery.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthralgia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis degenerative.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis gout.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis Lyme.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis mutilans.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis psoriatic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis reactive.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis Reiter.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis rheumatoid.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis spondylitis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthritis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthrocentesis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthrogram.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthrogryposis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthropathy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthroscope.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthroscopic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthroscopy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Arthrosis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Articulation disorder.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Articulation.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artificial abortion.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artificial heart.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artificial insemination.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artificial knee.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artificial nose.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artificial pacemaker.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Artificial pancreas.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Arylalkylamine N-acetyltransferase.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Asbestos.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asbestosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Ascariasis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Ascaris.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ascending aorta.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ascending pathway.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Ascites.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asclepius.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ascorbic acid.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\ASCUS.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ASD.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aseptic bursitis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aseptic necrosis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aseptic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asexual.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Asian cholera.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Asian flu.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Asian influenza.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\ASOT.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asparagine.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aspartame.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aspartate aminotransferase.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aspartic acid.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Asperger syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aspergillosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aspergillus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asphyxia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aspie.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Aspirate.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aspiration fine needle.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aspiration joint.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aspiration pneumonia.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aspiration.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aspirin resistance.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aspirin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asplenia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asplenic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Assay.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Assisted living.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Assisted suicide.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Assistive device.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Assistive technology.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Astatic seizure.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Asthenia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asthenic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Asthma  gene.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Asthma miner.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Asthma thermally induced.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Asthma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asthmatic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Astigmatic Keratotomy.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Astigmatic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Astigmatism.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Astraphobia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Astrocytoma.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Asymptomatic infection.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Asymptomatic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Asystole.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Ataxia cerebellar.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Ataxia-telangiectasia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Ataxia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atelectasis primary.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atelectasis secondary.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atelectasis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ATG.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Athelia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atherectomy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atherogenesis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atheroma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atherosclerosis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atherosclerotic aneurysm.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atherosclerotic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Athetosis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Athleats feet.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Athlete foot.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Athymic mouse.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Athymic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atkins diet.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atlantoaxial.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atlas.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atloaxoid joint.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\ATM.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ATN.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atom.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atonia REM sleep.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atonic seizure.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atonic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atopic dermatitis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atopic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atopy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ATP.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atresia anal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atresia aortic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atresia biliary.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atresia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atria.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrial arrhythmias.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrial fib.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrial fibrillation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrial flutter.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrial septal defect.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrial septum.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atrial.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atriodigital dysplasia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrioventricular node.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atrioventricular.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Atrium.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrophic vaginitis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atrophy peroneal.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atrophy.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atropine psychosis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atropine.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ATSDR.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Attack vasovagal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Attention deficit.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Attention getting.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Attention.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Attentional.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Attenuate.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Attenuated FAP.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Attenuated polyposis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Attenuated virus.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Attenuated.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Atypical syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Atypical.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Audiogram.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Audiologist.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Audiology.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Audiometry.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory  training.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory acuity.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory aphasia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory brainstem.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory cortex.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory perception.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory prosthesis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auditory tube.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Aura.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Aural vertigo.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Auricle.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Auricular hematoma.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Auricular.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Auscultate.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Austin Flint murmur.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Autism.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autistic savant.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Autoantibody.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autochthonous.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autoclave.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autogenous.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autograft.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autoimmune disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autoimmune hemolytic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autoimmune hepatitis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\autoimmune polyendocrinopathy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autoimmune process.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autoimmune syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autoimmune thyroiditis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\autoimmune.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autoimmunity.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autoinnoculation.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autologous.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autolysis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Automatic behavior.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Automatic seizure.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Automatism.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autonomic failure.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autonomic neuropathy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autonomy patient.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Autophobia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autopsy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autoradiography.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autosomal  hereditary.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autosomal chromosome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autosomal dominant.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Autosomal recessive.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Autosomal.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autosome.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autotransplant.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Autotransplantation.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\AV node.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Avascular necrosis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Avery.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Avian flu.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Avian influenza.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Avian tuberculosis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\avium.png
+C:\Users\Light\Desktop\ocr\images-and-labels\AVM.png
+C:\Users\Light\Desktop\ocr\images-and-labels\AVN.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Avulse.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Avulsion.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Avuncular.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Axelrod Julius.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Axelrod.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Axilla.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Axillary dissection.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Axillary hyperhidrosis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Axillary.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\axis joint.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Axon.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Ayurveda.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Azoospermia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Azoospermic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Azotemia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\biological response.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\bipolar state.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\blood donation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\BLOOD TUBING.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\BLOOD.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\BONE VOID FILLER.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\BONE VOID.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\botfly.png
+C:\Users\Light\Desktop\ocr\images-and-labels\BREATHING.png
+C:\Users\Light\Desktop\ocr\images-and-labels\BRONCHIAL.png
+C:\Users\Light\Desktop\ocr\images-and-labels\cancer.png
+C:\Users\Light\Desktop\ocr\images-and-labels\CANISTER.png
+C:\Users\Light\Desktop\ocr\images-and-labels\CANNULA.png
+C:\Users\Light\Desktop\ocr\images-and-labels\CAPILLARY.png
+C:\Users\Light\Desktop\ocr\images-and-labels\CARBON-FIBER.png
+C:\Users\Light\Desktop\ocr\images-and-labels\CARDIAC.png
+C:\Users\Light\Desktop\ocr\images-and-labels\CARDIOPULMONARY.png
+C:\Users\Light\Desktop\ocr\images-and-labels\CATHETER.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\cell carcinoma.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\cell cytotoxicity.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\cell hemoglobin.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\cell tumor.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\CEMENTED.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\central sleep.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\CHORDAE TENDINAE.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\chronic rheumatoid.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\ciliary body.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\CLAMP.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\cognitive impairment.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\COLLAGEN.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\COMPOSITE SYNTHETIC.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\computed tomography.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\CONDUCTIVITY.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\connective tissue.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\CONNECTOR.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\converting enzyme.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\core disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\corneal dystrophy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\CRANIAL  SYSTEM.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\deficit disorder.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\dehydrogenase deficiency.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\DIAGNOSTIC.png
+C:\Users\Light\Desktop\ocr\images-and-labels\DIALYSATE.png
+C:\Users\Light\Desktop\ocr\images-and-labels\DIALYSIS.png
+C:\Users\Light\Desktop\ocr\images-and-labels\DIALYZER.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\disease coronary.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\DISPOSABLE.png
+C:\Users\Light\Desktop\ocr\images-and-labels\DNA.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\dose inhaler.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\drug code.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\dye test.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\dying Assistant.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\ELBOW FIXATOR.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Emergency Room.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\encephalitis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ENDOLYMPHATIC.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ENDOSSEOUS.png
+C:\Users\Light\Desktop\ocr\images-and-labels\epileptiform.png
+C:\Users\Light\Desktop\ocr\images-and-labels\ESOPHAGEAL.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\external defibrillator.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\EXTRA-LUMINAL.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\eye Melanoma.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\familial adenomatous.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\FASCIOTOMY.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\female urethral.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\femoral head.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\fetal Mortality.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\FILTER.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\fingerprint dystrophy.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\FIXATION.png
+C:\Users\Light\Desktop\ocr\images-and-labels\FLOWMETER.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\FLUID REMOVAL.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Fundus Photography.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\gene.png
+C:\Users\Light\Desktop\ocr\images-and-labels\genome.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\giant tumor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\glory syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\GROWTH FACTOR.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\hemangiomas.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\hemoglobin concentration.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\histocompatibility complex.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\HOLLOW FIBER.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\human transplant.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\hyperactivity disorder.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\igament.png
+C:\Users\Light\Desktop\ocr\images-and-labels\immunology.png
+C:\Users\Light\Desktop\ocr\images-and-labels\IMPLANT.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\inborn error.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\infant Mortality.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\INFUSION.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\inhibitory cytokine.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\injury.png
+C:\Users\Light\Desktop\ocr\images-and-labels\intercellulare.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\INTERNAL HINGED.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\intestine Malrotation.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\INTRAOSSEOUS.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\invasive lung.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\juvenile rheumatoid.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\kidney disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\knee ligament.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\LARGE ABDOMINAL.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\lateral knee.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\LEAK.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\lentigo maligna.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\leprae.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\lineage leukemia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\liver disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\lymphoproliferative syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Macerate.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macewen operation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macewen sign.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Machupo virus.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Macro.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macroangiopathy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrobiota.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macrobiotic diet.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrobiotic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrocephaly.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrocytic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrogenitosomia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macroglobulinemia Waldenstrom.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Macroglobulinemia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macroglossia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrognathia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrolide.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macroorchidism.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macrophage cytokine.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrophage.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macrophagic myofasciitis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Macroscopic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrosomia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macrovascular disease.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Macrovascular.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macula.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macular cyst.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macular Degeneration.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macular hole.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macular pucker.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macular retinopathy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Macular vision.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Macular.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Macules.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maculopathy cellophane.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Maculopathy.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mad deer disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Madelung disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mag sulfate.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magendie foramen.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Maggot.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magic bullet.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Magnesia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magnesium deficiency.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magnesium excess.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magnesium sulfate.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Magnesium.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magnet therapy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magnetic  elastography.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magnetic  imaging.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magnetic  perfusion.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Magnetic resonance.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mainstream medicine.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maintenance therapy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Major  complex.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Major anomaly.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Major anxiety disorder.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Major depression.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Major gene.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Major.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Makeup permanent.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Malabsorption.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Malacia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Malady.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Malaise.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Malar.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malaria falciparum.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malaria pregnancy-associated.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Malaria.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Malariologist.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Malariology.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malattia leventinese.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male breast cancer.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male chromosome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male condom.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male external genitalia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male genitalia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male gonad.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male internal genitalia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male menopause.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Male pelvis.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Male.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malformation arteriovenous.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malformation congenital.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Malformation.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Malignancy.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malignant ascites.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malignant giant.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malignant hyperthermia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malignant melanoma.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Malignant.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malleability brain.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Malleolus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mallet.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Malleus.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malnutrition-related diabetes.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Malnutrition.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Malrotated ear.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\MALT lymphoma.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\MAM.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mammaplasty reduction.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mammary gland.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mammogram screening.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mammogram.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Managed care.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mandible.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maneuver Heimlich.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maneuver Valsalva.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mania mixed.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mania.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Manic-depression.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Manic-depressive disease.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Manic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Manicheel tree.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Manny.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Manometry.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Manorexia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mansfield.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mantoux test.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\MAO inhibitor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Map contig.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Map cytogenetic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Map linkage.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Map physical.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maple syrup.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mapping gene.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mapping.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Marasmus.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marburg disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marburg virus.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marcus Gunn syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marfan syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Margaret Mead.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marie-Strumpell disease.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Marijuana.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marinesco-Sjogren syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\marinum.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mark of Cain.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marker blood.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marker chromosome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marker gene.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marker tumor.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Marker.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Marmoreal.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maroteaux-Lamy syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marriage cousin.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Marrow.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marsh fever.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Marshall-Smith syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Martorell syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\MASA syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mask oxygen.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Masklike face.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Masochism.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mass spectrometry.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\MASS syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Massage therapist.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Massage.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Masseter.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mast cell.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mast syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mast tumor.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mastalgia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mastectomy double.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mastectomy preventative.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mastectomy prophylactic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mastectomy radical.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mastectomy simple.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mastectomy subcutaneous.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mastectomy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Masticate.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mastitis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mastocyte.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mastocytoma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mastocytosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mastoid.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mastoiditis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Materfamilias.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Materia medica.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maternal age.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maternal mortality.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maternal myasthenia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maternal phenylketonuria.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Maternal serum.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Maternal.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Materteral.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Materterine.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mathematics disorder.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Matricectomy.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Matter gray.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Matter white.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Maxilla.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mayaro virus.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mayer syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\MCAD deficiency.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\MCAF.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\McArdle disease.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\MCAT.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\McBurneys point.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\McCune syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\McKusick syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Me-too drug.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mead Margaret.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mead.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meadow syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meal moth.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mean cell volume.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mean cell.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Measles encephalitis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Measles immunization.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Measles syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Measles.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Measly tapeworm.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Measly.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meatus female.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Meatus.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mechanical ventilation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meckel's diverticulum.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meconium ileus.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Meconium.png
+C:\Users\Light\Desktop\ocr\images-and-labels\MECP2.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Med school.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Med-school syndrome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Media contrast.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\medial knee.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medial meniscus.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medial occipitotemporal.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Medial.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mediastinoscopy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mediastinotomy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mediastinum.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medic Alert.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Medicaid.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medical device.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medical entomology.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medical etymology.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medical geography.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medical helminthology.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medical history.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medical Sales.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medical-school syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\MedicAlert.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Medicalize.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Medicare.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicated stent.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication ACE-inhibitor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication anti-infective.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication anti-platelet.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication antibiotic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication anticoagulant.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication antifungal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication antimicrobial.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication antiprotozoal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication antiviral.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication beta-blocker.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication clot-dissolving.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication generic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medication vasodilator.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Medication.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine adoption.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine Chinese.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine family.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine forensic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine geriatric.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine homeopathic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine legal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine naturopathic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine nuclear.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine occupational.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine transfusion.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medicine travel.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medifast diet.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medigap policy.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Medigap.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Meditation.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mediterranean anemia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mediterranean diet.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mediterranean Fever.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medium-chain dehydrogenase.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Medium-chain.png
+C:\Users\Light\Desktop\ocr\images-and-labels\MEDLARS.png
+C:\Users\Light\Desktop\ocr\images-and-labels\MEDLINE.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medulla adrenal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medulla oblongata.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Medulla.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medullary cystic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Medullary thyroid.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Medulloblastoma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Megabase.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Megacolon.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Megakaryocyte.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Megalencephaly.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Megrim.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meibomian cyst.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meibomian gland.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Meibomianitis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Meibomitis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Meiosis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meiotic drive.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meiotic nondisjunction.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Meiotic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melancholia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melanin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melanocyte.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melanoderma.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma acral-lentiginous.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma amelanotic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma benign.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma choroidal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma ciliary.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma conjunctival.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma eye.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma intraocular.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma iris.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma juvenile.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma lentigo.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma malignant.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma nodular.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma ocular.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma spreading.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma thickness.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma uveal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma vaccine.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Melanoma.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Melanosis coli.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\MELAS syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Melasma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melatonin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\MELD.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melena.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melioidosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melissophobia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melittin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melomania.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Melorheostosis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meltdown genetic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membrane attack.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membrane cofactor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membrane complex.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membrane endopeptidase.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membrane epiretinal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membrane metalloendopeptidase.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membrane protein.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membrane vaginal.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Membrane-associated.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Membrane.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membranous gingivitis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membranous glomerulonephritis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membranous nephropathy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Membranous vitreous.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Membranous.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory  cells.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory anterograde.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory explicit.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory implicit.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory long-term.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory recent.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory short-term.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory span.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Memory working.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Memory.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menangle virus.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Menarche.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mendel Gregor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mendelian inheritance.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mendelian.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mendelism.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menetrier disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meniere disease.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Meninges.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Meningioma.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis aseptic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis bacterial.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis benign.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis cryptococcal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis infectious.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis Kernig.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis meningococcal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis Mollaret.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis neoplastic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis tuberculous.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis vaccine.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis viral.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Meningitis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Meningocele.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningococcal infection.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningococcal meningitis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meningococcal vaccine.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Meningococcus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Meningoencephalitis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Meningomyelocele.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meniscus injury.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Meniscus.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menkes syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Menometrorrhagia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menopause chemical.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menopause induced.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menopause natural.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menopause radiation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menopause surgical.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menopause transition.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Menopause.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Menorrhagia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstrual cramps.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstrual cycle.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstrual irregularity.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstrual migraine.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstrual spotting.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstrual synchronization.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Menstrual.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstruation anovular.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstruation cessation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Menstruation retrograde.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Menstruation.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mental child injury.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mental retardation.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mentum.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meralgia paresthetica.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mercaptopurine.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mercury gilding.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mercury poisoning.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Merkel cell.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mesenteric adenitis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mesenteric artery.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mesenteric vein.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mesentery.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mesial.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mesmerism.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mesoderm.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mesodermal.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mesothelin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mesothelioma.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Messenger RNA.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metabolic diseases.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metabolic rate.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metabolic syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Metabolic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metabolism error.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Metabolism.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Metacarpals.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metacentric chromosome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metachromatic leukodystrophy.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Metagene.png
+C:\Users\Light\Desktop\ocr\images-and-labels\METAL.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metallic taste.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Metanalysis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metaphase chromosome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Metaphase.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metaphyseal chondrodysplasia.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Metapneumovirus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Metastasis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Metastasize.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Metatarsal.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Metatarsals.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metatarsophalangeal  sprain.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Metatarsophalangeal.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Metatarsus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\METER.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Metered dose.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Methadone treatment.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Methadone.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Methanococcus jannaschii.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Methemoglobin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Methemoglobinemia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Methicillin-resistant.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Methicillin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Methionine.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Method rhythm.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Methyl bromide.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Methyl-CpG-binding.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Methylation.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Methylenedioxymethamphetamine.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Methylmalonicaciduria.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Methylmercury.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Metrorrhagia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Meuse fever.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Miasma.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Miasmic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Micro-RNA.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microabscess.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microalbuminuria.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microangiopathy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microarray.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microbe.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microbicide.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microbiologist.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microcephalin.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microcephaly.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microchimerism.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microcystic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microcytic.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microdeletion.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microdiscectomy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microdosimetry.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microduplication.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microembolus.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microhematuria.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microorchidism.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Micropenis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microphallus.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microphthalmia syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Microphthalmia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Micropigmentation.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microscope compound.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microscope electron.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microscope fluorescent.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microscope simple.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Microscope.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microscopic anatomy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microscopic gallstones.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Microscopic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microscopy cryo-electron.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microscopy electron.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Microscopy.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microsomia.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microsporidiosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microsurgery.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Microtia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microtubule motor.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microtubule protein.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microvascular disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Microvascular surgery.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Microvascular.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Micturate.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Micturition syncope.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Micturition.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Midbrain aqueduct.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Middle ear infection.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Middle ear.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\MIDDLE-EAR.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Midget.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Midgut volvulus.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Midlife crisis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Midnight children.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Midnight disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Midwife assistant.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Midwife.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mifepristone.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Migraine abdominal.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Migraine aura.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Migraine classic.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Migraine common.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Migraine headache.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Migraine ocular.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Migraine ophthalmic.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Migraine.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Migraineur.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Migrainous neuralgia.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mild cognitive.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Miliary aneurysm.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Miliary tuberculosis.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Milk allergy cow.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Milk witch's.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Miller's lung.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Miller-Dieker syndrome.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Milligram.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Milligray.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Milwaukee brace.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Milzbrand.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mimesis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mimetic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Minamata disease.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mind.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Miner's asthma.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mineral requirements.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mineralocorticoids.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Minimal  disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Minimal change.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Minimal disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Minimal reduction.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Minipill.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Minor anomaly.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Minor gland.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Minor.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Minot-Von.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Miosis.png
+C:\Users\Light\Desktop\ocr\images-and-labels\miRNA.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mirror mouth.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Miscarriage multiple.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Miscarriage.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mismatch repair.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Misophonia.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Missense mutation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mite dust.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mite-borne typhus.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mite.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Miticide.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondria.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondrial cytopathy.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondrial disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondrial DNA.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondrial genome.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondrial inheritance.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondrial myopathy.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondrial.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mitochondrion.png
+C:\Users\Light\Desktop\ocr\images-and-labels\Mitosis.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitotic nondisjunction.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mitotic.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitragyna speciosa.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitral insufficiency.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitral prolapse.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitral regurgitation.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mitral valve.png"
+C:\Users\Light\Desktop\ocr\images-and-labels\Mittelschmerz.png
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mixed disease.png"
+"C:\Users\Light\Desktop\ocr\images-and-labels\Mixed mania.png"
