@@ -1,8 +1,8 @@
-classes= 54
-train  = C:\Users\Light\Desktop\train.txt
-valid  = C:\Users\Light\Desktop\valid.txt
+classes=54
+train=C:\Users\Light\Desktop\ocr\train.txt
+valid=C:\Users\Light\Desktop\ocr\valid.txt
 
-names = C:\Users\Light\Desktop\ocr\myocrDocker\myocrvolume\ocrnames.names
-backup = C:\Users\Light\Desktop\ocr\myocrDocker\myocrvolume\backup\
+names=C:\Users\Light\Desktop\ocr\myocrDocker\myocrvolume\ocrnames.names
+backup=C:\Users\Light\Desktop\ocr\myocrDocker\myocrvolume\backup\
 
 
