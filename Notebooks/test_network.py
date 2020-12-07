@@ -1,3 +1,7 @@
+#[author: me_teor21]
+#date:08-dec-20 12:54 am
+
+
 #Script Goal: it will predict the annotations and send back (letter,confidence,(x,y,w,h)) for a set of images
 #run this script in cmd by locating into the darknet folder 
 
@@ -54,7 +58,7 @@ for idx, thing in tqdm(enumerate(tiny_images)):   #for every images add to liste
     for i in range(len(det)):     #for every detection that has a vector
         try:                       #try this out
 
-            filename = thing.split("/")[4].split(".")[0]
+            filename = thing.split("/")[4]
             vector_letter = det[i][0]
             vector_confidence = det[i][1]
             vector_x = int(det[i][2][0])
