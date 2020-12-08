@@ -87,5 +87,5 @@ merged_array = np.array(merged)
 print(merged_array.shape)  #print its dimension
 
 merged_frame = DataFrame(merged_array)
-merged_frame.to_csv(r'/mekeneocr/tiny/mycsv.csv', sep =',', index = False, header = False)
+merged_frame.to_csv(r'/mekeneocr/tiny/mycsv.csv', sep =',', index = False, header = True)
  
