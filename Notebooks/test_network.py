@@ -1,7 +1,3 @@
-#[author: me_teor21]
-#date:08-dec-20 12:54 am
-
-
 #Script Goal: it will predict the annotations and send back (letter,confidence,(x,y,w,h)) for a set of images
 #run this script in cmd by locating into the darknet folder 
 
@@ -51,20 +47,77 @@ for idx, thing in tqdm(enumerate(tiny_images)):   #for every images add to liste
     #path_to_csv_thing=thing.split(".")[0] + ".csv"
     #liste.append(path_to_csv_thing)
     
-    _,det = image_detection(thing, network, class_names, class_colors, 0.5)  #for every images, find its detection 
+    my_image_detected,det = image_detection(thing, network, class_names, class_colors, 0.9)  #for every images, find its detection 
+    print(f"the image size is :{str(my_image_detected.shape)}")
 
-    mescoordonnees =[]   #create an empty list for the coordinates (letter, confidence, x, y, w, h)
+    mescoordonnees = []   #create an empty list for the coordinates (letter, confidence, x, y, w, h)
     mesvecteurs = []     #create an empty list for the vectors 
-    for i in range(len(det)):     #for every detection that has a vector
-        try:                       #try this out
+    monvecteur = []
+    print(det)
+    print(len(det))
+    
+    
+    if len(det) > 0:
+        
+        for i in range(len(det)):     #for every detection that has a vector
+            try:                       #try this out
 
+                filename = thing.split("/")[4]
+                vector_letter = det[i][0]
+                vector_confidence = det[i][1]
+                vector_x = int(det[i][2][0])
+                vector_y = int(det[i][2][1])
+                vector_w = int(det[i][2][2])
+                vector_h = int(det[i][2][3])
+
+                mescoordonnees.append(filename)
+                mescoordonnees.append(vector_letter)
+                mescoordonnees.append(vector_confidence)
+                mescoordonnees.append(vector_x)
+                mescoordonnees.append(vector_y)
+                mescoordonnees.append(vector_w)
+                mescoordonnees.append(vector_h)
+
+
+                mesvecteurs.append(mescoordonnees)
+                mescoordonnees = []
+
+                liste_df.append(mesvecteurs)
+
+            except Exception as e:
+                print(e)
+                #otherwise print the file that detection does not have a vector
+                filename = thing.split("/")[4]
+                vector_letter = None
+                vector_confidence = None
+                vector_x = None
+                vector_y = None
+                vector_w = None
+                vector_h = None
+
+                mescoordonnees.append(filename)
+                mescoordonnees.append(vector_letter)
+                mescoordonnees.append(vector_confidence)
+                mescoordonnees.append(vector_x)
+                mescoordonnees.append(vector_y)
+                mescoordonnees.append(vector_w)
+                mescoordonnees.append(vector_h)
+
+                monvecteur.append(mescoordonnees)
+                mescoordonnees = []
+
+                print(monvecteur)
+                #print(thing)
+                liste_df.append(monvecteur)
+                
+    else:
             filename = thing.split("/")[4]
-            vector_letter = det[i][0]
-            vector_confidence = det[i][1]
-            vector_x = int(det[i][2][0])
-            vector_y = int(det[i][2][1])
-            vector_w = int(det[i][2][2])
-            vector_h = int(det[i][2][3])
+            vector_letter = None
+            vector_confidence = None
+            vector_x = None
+            vector_y = None
+            vector_w = None
+            vector_h = None
 
             mescoordonnees.append(filename)
             mescoordonnees.append(vector_letter)
@@ -74,18 +127,21 @@ for idx, thing in tqdm(enumerate(tiny_images)):   #for every images add to liste
             mescoordonnees.append(vector_w)
             mescoordonnees.append(vector_h)
 
-
-            mesvecteurs.append(mescoordonnees)
+            monvecteur.append(mescoordonnees)
             mescoordonnees = []
 
-        except:                     #otherwise print the file that detection does not have a vector
-            print(thing)
-    liste_df.append(mesvecteurs)
+            print(monvecteur)
+            #print(thing)
+            liste_df.append(monvecteur)
+            
+            
+    
+    
 #np_liste_df = np.array(liste_df)  #make a numpy array
 merged = list(itertools.chain(*liste_df))
 merged_array = np.array(merged)
-print(merged_array.shape)  #print its dimension
+#print(merged_array.shape)  #print its dimension
 
 merged_frame = DataFrame(merged_array)
-merged_frame.to_csv(r'/mekeneocr/tiny/mycsv.csv', sep =',', index = False, header = True)
+merged_frame.to_csv(r'/mekeneocr/tiny/mycsvmeteor_tresh_0.9.csv', sep =',', index = False, header = True)
  
