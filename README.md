@@ -1,3 +1,2 @@
 # OCR-medicalword-detection
 
-jbd
