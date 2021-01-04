@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/pipeline/Untitled%20Diagram-Page-2.png"/>
+  <img src="https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/pipeline/tingy.png"/>
 </p>
