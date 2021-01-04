@@ -2,4 +2,4 @@
 
 
 
-![heu]("https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/pipeline/Untitled%20Diagram.drawio")
+![]("https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/pipeline/Untitled%20Diagram.png")
