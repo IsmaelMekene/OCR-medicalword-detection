@@ -1,12 +1,2 @@
 
 
-from PIL import Image, ImageDraw, ImageFont
-import cv2, pytesseract
-import os
-import codecs
-from tqdm import tqdm
-import numpy as np
-import sys
-import json
-from decimal import *
-import pandas as pd
