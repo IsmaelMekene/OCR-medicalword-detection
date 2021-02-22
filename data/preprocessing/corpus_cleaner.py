@@ -1,10 +1,17 @@
 import pandas as pd
 
+
+
 def cleaner(corpus, authorized_alphabet):
 
   '''
-  corpus = '/Users/assansanogo/Downloads/big.txt'
-  authorized_alphabet = "/Users/assansanogo/Downloads/ocrnames.names"
+  This function aims to clean the initial medical word corpus containing words from different languages and special characters.
+  
+  Input:
+    corpus = '/mekeneocr/computer-vision-ocr/dico.txt', this is the path to the initial corpus
+    authorized_alphabet = '/mekeneocr/computer-vision-ocr/ocrnames.names', this is the path to the desired alphabet 
+  Return:
+    This function returns the clean corpus with the diserd alphabet (english)
   '''
 
 
