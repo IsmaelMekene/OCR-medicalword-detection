@@ -1,3 +1,17 @@
+from PIL import Image, ImageDraw, ImageFont
+import cv2, pytesseract
+import os
+import codecs
+from tqdm import tqdm
+import numpy as np
+import sys
+import json
+from decimal import *
+import pandas as pd
+
+
+
+
 #set the folders and files paths to avoid heavy calls in the functions
 vgg = "C:\Users\Light\Desktop\ocr\vgg\vgg.txt"                         #file containing vgg annotations 
 annotations = "C:\Users\Light\Desktop\ocr\annotations.txt" #file containing images annotations 
