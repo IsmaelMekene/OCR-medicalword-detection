@@ -35,3 +35,4 @@ WORKDIR mekeneocr
 #install tqdm 
 RUN pip3 install tqdm
 
+ENTRYPOINT /bin/bash
