@@ -1,3 +1,17 @@
+from PIL import Image, ImageDraw, ImageFont
+import cv2, pytesseract
+import os
+import codecs
+from tqdm import tqdm
+import numpy as np
+import sys
+import json
+from decimal import *
+import pandas as pd
+
+
+
+
 #set the folders and files paths to avoid heavy calls in the functions
 vgg_csv = "vgg.csv"
 vgg_csv_path = "C:\Users\Light\Desktop\ocr\vgg\"
