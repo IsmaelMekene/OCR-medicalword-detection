@@ -72,3 +72,11 @@ def convert_tesseract_to_vgg(annotations, vgg, encoding = 'latin1'):
         
     errorfile.close()
     return(error_counter)
+
+
+
+
+#converting the vgg.txt file in to .csv
+
+read_file = pd.read_csv (r"C:\Users\Light\Desktop\ocr\vgg\vgg.txt")
+read_file.to_csv (r'C:\Users\Light\Desktop\ocr\vgg\vgg.csv', index=None)
