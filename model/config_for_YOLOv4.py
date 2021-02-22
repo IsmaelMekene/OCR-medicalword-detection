@@ -1,6 +1,8 @@
 cd /content/darknet
 
+
 import os
+
 
 #we build config dynamically based on number of classes
 #we build iteratively from base config files. This is the same file shape as cfg/yolo-obj.cfg
@@ -9,6 +11,9 @@ def file_len(fname):
     for i, l in enumerate(f):
       pass
   return i + 1
+
+
+
 
 num_classes=64
 print("writing config for a custom YOLOv4 detector detecting number of classes: " + str(num_classes))
