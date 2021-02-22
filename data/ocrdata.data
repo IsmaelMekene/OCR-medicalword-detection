@@ -1,0 +1,8 @@
+classes=54
+train=C:~\Desktop\ocr\train.txt
+valid=C:~\Desktop\ocr\valid.txt
+
+names=C:~\Desktop\ocr\myocrDocker\myocrvolume\ocrnames.names
+backup=C:~\Desktop\ocr\myocrDocker\myocrvolume\backup\
+
+
