@@ -103,3 +103,13 @@ with open('./cfg/custom-yolov4-detector.cfg', 'a') as f:
       f.write(line)
 
 print("file is written!")
+
+
+
+
+#here is the file that was just written. 
+#you may consider adjusting certain things
+
+#like the number of subdivisions 64 runs faster but GPU may not be big enough
+#if GPU memory is too small, you will need to adjust subdivisions to 16
+cat cfg/custom-yolov4-detector.cfg
