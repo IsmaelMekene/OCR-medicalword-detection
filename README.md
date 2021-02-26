@@ -21,11 +21,11 @@ When you are done you will have a custom detector that you can use.
 
 
 
-
+## Project pipeline
  
 
 <p align="center">
   <img src="https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/pipeline/tingy.png"/>
 </p>
 
-## Project pipeline
+
