@@ -8,7 +8,8 @@ About the model:
 In this repository, we implement YOLOv4 for training on your own dataset.
 
 We will take the following steps to implement YOLOv4 on our custom data:
-  Configure our GPU environment on Google Colab
+
+  Configure our GPU environment 
   Install the Darknet YOLOv4 training environment
   Download our custom dataset for YOLOv4 and set up directories
   Configure a custom YOLOv4 training config file for Darknet
