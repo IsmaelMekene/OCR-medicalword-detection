@@ -1,5 +1,5 @@
 # OCR-medicalword-detection
-## ## Readme.md in progress ...
+## Readme.md in progress ...
 
 
 
