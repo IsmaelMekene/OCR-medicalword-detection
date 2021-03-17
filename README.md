@@ -131,6 +131,9 @@ The following [shell file](https://github.com/IsmaelMekene/OCR-medicalword-detec
 
 
 
+`image`             |  `prediction`
+:-------------------------:|:-------------------------:
+![](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/data/abiatus.png)  |  ![](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/data/abiatus_pred.png)
 
 
 
