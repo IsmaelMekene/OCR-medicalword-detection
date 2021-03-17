@@ -10,6 +10,19 @@
 
 
 ## Data preparation
+In this section, the goal is to make the dataset ready and accessible for the YOLOv4 model.
+
+The raw dataset is a corpus (txt file) of medical word consisted of a word or maximum two words per line.
+<p align="right">
+  <img src="https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/data/Screenshot%202021-03-17%20at%2008.24.42.png"/>
+</p>
+
+For each of those words and group of words, corresponding image were generated.
+Example of the word: `post-polio`, the corresponding image would be: 
+<p align="right">
+  <img src="https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/data/post-polio.png"/>
+</p>
+
 
 ## Model (YOLOv4)
 
