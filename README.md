@@ -11,6 +11,7 @@ This is Computer Vision project aiming to implement the YOLOv4 model on a custom
 
 
 ## Data preparation
+
 In this section, the goal is to make the dataset ready and accessible for the YOLOv4 model.
 The raw dataset is a corpus (txt file) of medical word consisted of a word or maximum two words per line. This is how it can look like:
 <p align="center">
@@ -94,6 +95,7 @@ In this project, the darknet repository was cloned and modifications were made a
 
 
  **3. Download our custom dataset for YOLOv4 and set up directories**
+ 
  The custom dataset has be loaded according the following structure.
 
 
@@ -115,17 +117,22 @@ In this project, the darknet repository was cloned and modifications were made a
 
 
 **4. Configure a custom YOLOv4 training config file for Darknet** 
+
 Few modifications have to be made on the config file in the Darknet directory in order to set it up for the training session.
 This python script [config.py](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/model/config_for_YOLOv4.py), explains it well.
 
 **5. Train our custom YOLOv4 object detector**
+
 The following [shell file](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/model/train_and_test_model_YOLOv4.sh) contains the script for training on YOLOv4.
+
 `./darknet detector train /content/drive/MyDrive/veryTrueOcrData.data cfg/custom-yolov4-detector.cfg yolov4.conv.137 -dont_show -map`
 
 *When you are done you will have a custom detector that you can use.*
 
 **6. Predictions: Reload YOLOv4 trained weights and make inference on test images**
+
 The following script is used to do the prediction, but before the subdivision has to be set to 1 in the config file.
+
 `./darknet detector test ./meteor.data ./cfg/custom-yolov4-detector.cfg  ./custom-yolov4-detector_9000.weights`
 
 
