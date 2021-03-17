@@ -1,5 +1,6 @@
-# OCR-medicalword-detection
-## Readme.md in progress ...
+# :man_health_worker: OCR-medicalword-detection
+
+This is Computer Vision project aiming to implement the YOLOv4 model on a custom dataset. In this project the goal is to be able to predict medical words (letter by letter) on a given image.
 
 
 ## Project pipeline
@@ -93,7 +94,6 @@ In this project, the darknet repository was cloned and modifications were made a
 
 
  **3. Download our custom dataset for YOLOv4 and set up directories**
- 
  The custom dataset has be loaded according the following structure.
 
 
@@ -114,23 +114,18 @@ In this project, the darknet repository was cloned and modifications were made a
 - [x] valid.txt: This text file contains 20% of the total dataset, the paths of the images and labels.
 
 
-**4. Configure a custom YOLOv4 training config file for Darknet**
- 
+**4. Configure a custom YOLOv4 training config file for Darknet** 
 Few modifications have to be made on the config file in the Darknet directory in order to set it up for the training session.
 This python script [config.py](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/model/config_for_YOLOv4.py), explains it well.
 
 **5. Train our custom YOLOv4 object detector**
- 
 The following [shell file](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/model/train_and_test_model_YOLOv4.sh) contains the script for training on YOLOv4.
-
 `./darknet detector train /content/drive/MyDrive/veryTrueOcrData.data cfg/custom-yolov4-detector.cfg yolov4.conv.137 -dont_show -map`
 
 *When you are done you will have a custom detector that you can use.*
 
 **6. Predictions: Reload YOLOv4 trained weights and make inference on test images**
-
 The following script is used to do the prediction, but before the subdivision has to be set to 1 in the config file.
-
 `./darknet detector test ./meteor.data ./cfg/custom-yolov4-detector.cfg  ./custom-yolov4-detector_9000.weights`
 
 
@@ -140,5 +135,5 @@ The following script is used to do the prediction, but before the subdivision ha
 
 ## Discussion
 
-
+### In progess ...
 
