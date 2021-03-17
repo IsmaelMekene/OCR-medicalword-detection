@@ -23,9 +23,9 @@ We will take the following steps to implement YOLOv4 on our custom data:
 
 #### Change the number depending on what GPU is listed above, under NVIDIA-SMI > Name.
 
-[] *Tesla K80: 30*
-[] *Tesla P100: 60*
-[] *Tesla T4: 75*
+- [] *Tesla K80: 30*
+- [] *Tesla P100: 60*
+- [] *Tesla T4: 75*
 
 In the case of this project, we set it to: `%env compute_capability=60`
 
@@ -37,7 +37,7 @@ In the case of this project, we set it to: `%env compute_capability=60`
 #Installing Darknet for YOLOv4 
 
 The easiest way to install YOLOv4 environment is through Darknet. 
-[x] `git clone https://github.com/roboflow-ai/darknet.git`
+- [x] `git clone https://github.com/roboflow-ai/darknet.git`
 In this project, the darknet repository was cloned and modifications were made as mentionned in the following [shell file](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/model/darknet_for_YOLOv4.sh). Changes have been made to configure darknet for training.
 
 
