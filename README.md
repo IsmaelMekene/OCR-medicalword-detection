@@ -23,9 +23,9 @@ We will take the following steps to implement YOLOv4 on our custom data:
 
 #### Change the number depending on what GPU is listed above, under NVIDIA-SMI > Name.
 
-*Tesla K80: 30*
-*Tesla P100: 60*
-*Tesla T4: 75*
+- *Tesla K80: 30*
+- *Tesla P100: 60*
+- *Tesla T4: 75*
 
 In the case of this project, we set it to: `%env compute_capability=60`
 
