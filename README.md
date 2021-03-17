@@ -55,7 +55,7 @@ In this project, the darknet repository was cloned and modifications were made a
        |__images-and-labels
        |
        |__ocrdata.data
- data__|
+     __|
        |__ocrnames.names
        |
        |__train.txt
