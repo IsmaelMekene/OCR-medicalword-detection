@@ -11,7 +11,7 @@ In this section, we implement YOLOv4 for training on your own dataset.
 
 We will take the following steps to implement YOLOv4 on our custom data:
 
- ### - Configure our GPU environment 
+ - **Configure our GPU environment**
 
 #### CUDA: Let's check that Nvidia CUDA drivers are already pre-installed and which version is it.
 
@@ -32,11 +32,11 @@ In the case of this project, we set it to: `%env compute_capability=60`
 #### Then, install cuDNN according to the current CUDA version
 
 
- ### - Install the Darknet YOLOv4 training environment
- ### - Download our custom dataset for YOLOv4 and set up directories
- ### - Configure a custom YOLOv4 training config file for Darknet
- ### - Train our custom YOLOv4 object detector
- ### - Reload YOLOv4 trained weights and make inference on test images
+ - **Install the Darknet YOLOv4 training environment**
+ - **Download our custom dataset for YOLOv4 and set up directories**
+ - **Configure a custom YOLOv4 training config file for Darknet**
+ - **Train our custom YOLOv4 object detector**
+ - **Reload YOLOv4 trained weights and make inference on test images**
 
 When you are done you will have a custom detector that you can use. 
 
