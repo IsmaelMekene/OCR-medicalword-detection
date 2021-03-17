@@ -129,12 +129,16 @@ The following [shell file](https://github.com/IsmaelMekene/OCR-medicalword-detec
 
 **6. Predictions: Reload YOLOv4 trained weights and make inference on test images**
 
+The following script is used to do the prediction, but before the subdivision has to be set to 1 in the config file.
+
+`./darknet detector test ./meteor.data ./cfg/custom-yolov4-detector.cfg  ./custom-yolov4-detector_9000.weights`
 
 
 `image`             |  `prediction`
 :-------------------------:|:-------------------------:
 ![](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/data/abiatus.png)  |  ![](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/data/abiatus_pred.png)
 
+## Discussion
 
 
 
