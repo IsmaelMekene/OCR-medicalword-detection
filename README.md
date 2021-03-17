@@ -133,7 +133,7 @@ The following [shell file](https://github.com/IsmaelMekene/OCR-medicalword-detec
 
 The following script is used to do the prediction, but before the subdivision has to be set to 1 in the config file.
 
-`./darknet detector test ./meteor.data ./cfg/custom-yolov4-detector.cfg  ./custom-yolov4-detector_9000.weights`
+`./darknet detector abiatus.png ./meteor.data ./cfg/custom-yolov4-detector.cfg  ./custom-yolov4-detector_9000.weights`
 
 
 `image`             |  `prediction`
