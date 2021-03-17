@@ -24,8 +24,10 @@ Example of the word: `post-polio`, the corresponding image would be:
 
 And finally generate for each letter on these single image the yolo format in terms of annotations. As an example, in the case of the previous image of `post-polio`, the corresponding label would look like the following [post-polio.txt file](https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/data/post-polio.txt):
 
-    |___________________________________________________________
+
+    ___________________________________________________________
     |cls x1           y1           x2           y2
+    ___________________________________________________________
     |15  0.0483333333 0.2375000000 0.0600000000 0.3750000000
     |14  0.0550000000 0.3000000000 0.0600000000 0.5000000000
     |18  0.0700000000 0.4875000000 0.0600000000 0.7750000000
