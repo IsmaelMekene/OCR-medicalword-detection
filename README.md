@@ -26,6 +26,7 @@ We will take the following steps to implement YOLOv4 on our custom data:
 - [] *Tesla K80: 30*
 - [] *Tesla P100: 60*
 - [] *Tesla T4: 75*
+- [x] sympy
 
 In the case of this project, we set it to: `%env compute_capability=60`
 
