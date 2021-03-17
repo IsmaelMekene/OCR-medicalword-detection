@@ -2,8 +2,14 @@
 ## Readme.md in progress ...
 
 
+## Project pipeline
+ 
+<p align="center">
+  <img src="https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/pipeline/tingy.png"/>
+</p>
 
-## Data
+
+## Data preparation
 
 ## Model (YOLOv4)
 
@@ -59,6 +65,7 @@ In this project, the darknet repository was cloned and modifications were made a
        |__ocrnames.names
        |
        |__train.txt
+       |
        |__valid.txt
 
 - [x] images-and-labels: this folder contains all the images and there corresponding yolo annotation format
@@ -79,18 +86,13 @@ The following [shell file](https://github.com/IsmaelMekene/OCR-medicalword-detec
 
 `./darknet detector train /content/drive/MyDrive/veryTrueOcrData.data cfg/custom-yolov4-detector.cfg yolov4.conv.137 -dont_show -map`
 
+*When you are done you will have a custom detector that you can use.*
 
- - **Reload YOLOv4 trained weights and make inference on test images**
-
-When you are done you will have a custom detector that you can use. 
-
+**6. Predictions: Reload YOLOv4 trained weights and make inference on test images**
 
 
-## Project pipeline
- 
 
-<p align="center">
-  <img src="https://github.com/IsmaelMekene/OCR-medicalword-detection/blob/main/pipeline/tingy.png"/>
-</p>
+
+
 
 
